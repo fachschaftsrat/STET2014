@@ -11,6 +11,7 @@ Allgemein
 | /			| / 					| Grillgut organisieren		|
 | / 			| /					| Stadtrallye/Führung planen	|
 | Michel / Sepp 	| / 					| Quergasse für Spieleabend	|
+| Tim 			| /					| Führung Grundpraktikum	|
 
 Institutsführungen
 ------------------
