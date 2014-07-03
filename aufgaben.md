@@ -10,6 +10,7 @@ Allgemein
 | Max 			| / 					| Begrüßung des Dekans klären	|
 | /			| / 					| Grillgut organisieren		|
 | / 			| /					| Stadtrallye/Führung planen	|
+| Michel / Sepp 	| / 					| Quergasse für Spieleabend	|
 
 Institutsführungen
 ------------------
