@@ -12,6 +12,7 @@ Allgemein
 | / 			| /					| Stadtrallye/Führung planen	|
 | Michel / Sepp 	| / 					| Quergasse für Spieleabend	|
 | Tim 			| /					| Führung Grundpraktikum	|
+| Wesley		| / 					| Mensa Öffnungszeiten		|
 
 Institutsführungen
 ------------------
