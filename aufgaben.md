@@ -19,7 +19,7 @@ Institutsführungen
 |-----------------------|---------------------------------------|-------------------------------|
 | Eric			| / 					| Tieftemperatur (Nawrodt)	|
 | Tim			| / 					| IFK				|
-| /			| / 					| IOQ (JETI und Polaris)	|
+| Eddie			| / 					| IOQ (JETI und Polaris)	|
 | Eddie			| / 					| IAP				|
 | Eddie 		| / 					| IPHT				|
 | Richard		| /					| IAO				|
