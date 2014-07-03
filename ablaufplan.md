@@ -11,7 +11,8 @@ Physiker
 | 09:00	| 10:00 | HS1			| Begrüßung durch den Dekan	|
 | 10:00	| 10:30	| HS1			| Begrüßung durch den FSR	|
 | 10:30	| 12:00 | HS1			| Vorlesung Experimentalphysik	|
-| 12:00	| 13:30 | Philomensa		| Mittagessen			|
+| 12:00	| 13:00 | Philomensa		| Mittagessen			|
+| 13:00 | 13:30 | HS1			| Begrüßung durch die jDPG	|
 | 13:30	| 17:00 | HHW + Beutenberg	| Institutsführungen		|
 | 17:00 | offen	| Freifläche		| Kennenlernen + Grillen/Braten	|
 
