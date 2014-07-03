@@ -13,7 +13,7 @@ Physiker
 | 10:30	| 12:00 | HS1			| Vorlesung Experimentalphysik	|
 | 12:00	| 13:30 | Philomensa		| Mittagessen			|
 | 13:30	| 17:00 | HHW + Beutenberg	| Institutsführungen		|
-| 14:30 | offen	| Freifläche		| Kennenlernen + Grillen/Braten	|
+| 17:00 | offen	| Freifläche		| Kennenlernen + Grillen/Braten	|
 
 ### Tag 2
 
