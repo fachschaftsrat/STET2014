@@ -33,3 +33,41 @@ Physiker
 |-------|-------|-----------------------|-------------------------------|
 | offen | offen | offen			| Wanderung			|
 | offen | offen | offen			| Pizza essen			|
+
+Materialwissenschaftler
+-----------------------
+
+### Tag 1
+
+| Von	| Bis	| Ort			| Name				|
+|-------|-------|-----------------------|-------------------------------|
+| 09:00	| 10:00 | HS1			| Begrüßung durch den Dekan	|
+| 10:00	| 10:30	| HS1			| Begrüßung durch den FSR	|
+| 10:30	| 12:00 | HS1			| Vorlesung Experimentalphysik	|
+| 12:00	| 13:30 | Philomensa		| Mittagessen			|
+| 13:30 | 14:30 | IMT			| Einführungsvortrag		|
+| 14:30 | 15:00 | IMT			| Spiel mit dem Ei		|
+| 15:00	| 17:00	| IMT			| Institutsführung IMT		|
+| 17:00 | offen | Freifläche		| Kennenlernen + Grillen/Braten |
+
+### Tag 2
+
+| Von 	| Bis 	| Ort			| Name				|
+|-------|-------|-----------------------|-------------------------------|
+| 08:45 | 09:45 | IMT HS124		| Studienordnung		|
+| 09:45 | 10:15 | IMT HS124		| Begrüßung Junge DGM		|
+| 10:15 | 10:45 | FH			| Transfer zur FH		|
+| 10:45 | 11:15 | FH			| Bibliotheksführung		|
+| 11:15 | 12:15 | Mensa CZP		| Mittagessen			|
+| 12:15 | 13:00 | Stadt			| Transfer zum OSI		|
+| 13:00 | 14:30 | Fraunhoferstraße	| Vortrag OSI			|
+| 14:30 | 15:30 | Fraunhoferstraße	| Institutsführung OSI		|
+| 15:30 | 17:30 | Stadt			| Stadtrallye			|
+| 17:30 | offen | offen			| Spieleabend + Kneipentour	|
+
+### Tag 3
+
+| Von 	| Bis 	| Ort			| Name				|
+|-------|-------|-----------------------|-------------------------------|
+| offen | offen | offen			| Wanderung			|
+| offen | offen | offen			| Pizza essen			|
