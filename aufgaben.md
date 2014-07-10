@@ -23,7 +23,7 @@ Institutsführungen
 | Eric			| / 					| Tieftemperatur (Nawrodt)	|
 | Tim			| / 					| IFK				|
 | Eddie			| / 					| IOQ (JETI und Polaris)	|
-| Eddie			| / 					| IAP				|
+| Eddie			| Done (im September über Teilnehmerzahl informieren) 					| IAP				|
 | Eddie 		| / 					| IPHT				|
 | Richard		| /					| IAO				|
-| Eddie			| /					| IOF				|
+| Eddie			| Done (siehe IAP)				| IOF				|
