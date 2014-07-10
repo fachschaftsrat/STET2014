@@ -9,7 +9,7 @@ Allgemein
 | Tim			| Done (Ronning hält die Vorlesung)	| Vorlesung Experimentalphysik	|
 | Max 			| / 					| Begrüßung des Dekans klären	|
 | Eric			| / 					| Allgemeine Einkäufe		|
-| / 			| /					| Stadtrallye/Führung planen	|
+| Eddie			| /					| Stadtführung planen		|
 | Michel / Sepp 	| / 					| Quergasse für Spieleabend	|
 | Tim 			| Done					| Führung Grundpraktikum	|
 | Wesley		| / 					| Mensa Öffnungszeiten		|

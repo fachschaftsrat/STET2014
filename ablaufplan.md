@@ -24,7 +24,7 @@ Physiker
 | 10:30 | 11:30 | HS1 + MWP		| Führung Grundpraktikum	|
 | 11:30 | 12:30 | Philomensa		| Mittagessen			|
 | 12:30 | 15:30 | Beutenberg		| Institutsführungen		|
-| 15:30	| 17:30 | Stadt			| Stadtrallye + Bibliothek	|
+| 15:30	| 17:30 | Stadt			| Stadtführung + Bibliothek	|
 | 17:30 | offen | offen			| Spieleabend + Kneipentour	|
 
 ### Tag 3 (03.10.14)
