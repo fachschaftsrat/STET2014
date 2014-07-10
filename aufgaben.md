@@ -11,7 +11,7 @@ Allgemein
 | Eric			| / 					| Allgemeine Einkäufe		|
 | / 			| /					| Stadtrallye/Führung planen	|
 | Michel / Sepp 	| / 					| Quergasse für Spieleabend	|
-| Tim 			| /					| Führung Grundpraktikum	|
+| Tim 			| Done					| Führung Grundpraktikum	|
 | Wesley		| / 					| Mensa Öffnungszeiten		|
 | Richard		| / 					| Fahrt zum Beutenberg		|
 
