@@ -18,12 +18,12 @@ Allgemein
 Institutsführungen
 ------------------
 
-| Verantwortlicher	| Status				| Institut 			|
-|-----------------------|---------------------------------------|-------------------------------|
-| Eric			| / 					| Tieftemperatur (Nawrodt)	|
-| Tim			| / 					| IFK				|
-| Eddie			| / 					| IOQ (JETI und Polaris)	|
-| Eddie			| Done (im September über Teilnehmerzahl informieren) 					| IAP				|
-| Eddie 		| / 					| IPHT				|
-| Richard		| /					| IAO				|
-| Eddie			| Done (siehe IAP)				| IOF				|
+| Verantwortlicher	| Status						| Institut 			|
+|-----------------------|-------------------------------------------------------|-------------------------------|
+| Eric			| / 							| Tieftemperatur (Nawrodt)	|
+| Tim			| / 							| IFK				|
+| Eddie			| / 							| IOQ (JETI und Polaris)	|
+| Eddie			| Done (im September über Teilnehmerzahl informieren) 	| IAP				|
+| Eddie 		| / 							| IPHT				|
+| Richard		| /							| IAO				|
+| Eddie			| Done (siehe IAP)					| IOF				|
