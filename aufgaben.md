@@ -22,8 +22,8 @@ Institutsführungen
 |-----------------------|-------------------------------------------------------|-------------------------------|
 | Eric			| Done (Woche vorher melden)				| Tieftemperatur (Nawrodt)	|
 | Tim			| / 							| IFK				|
-| Eddie			| / 							| IOQ (JETI und Polaris)	|
+| Eddie			| Absage							| IOQ (JETI und Polaris)	|
 | Eddie			| Done (im September über Teilnehmerzahl informieren) 	| IAP				|
-| Eddie 		| / 							| IPHT				|
+| Eddie 		| Done (im September melden)						| IPHT				|
 | Richard		| /							| IAO				|
 | Eddie			| Done (siehe IAP)					| IOF				|
