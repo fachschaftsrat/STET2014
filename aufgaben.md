@@ -1,4 +1,4 @@
-Aufgaben und Verantworliche
+Aufgaben und Verantwortliche
 ===========================
 
 Allgemein
