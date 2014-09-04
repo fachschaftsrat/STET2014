@@ -2,14 +2,23 @@ Ablauf
 ======
 
 Erklärung der Abkürzungen für die Orte:
+
 *HS1*: Der große Hörsaal im dritten Stock des Hauptgebäudes der Fakultät (Max-Wien-Platz 1)
+
 *Philomensa*: Mensa am Philosophenweg
+
 *HHW*: Helmholtzweg. Dort findet man sowohl das *gelbe Haus*, das *rote Haus* als auch den *Jenoptik-Hörsaal*.
+
 *MWP*: Max-Wien-Platz 1. Das Hauptgebäude der Fakultät.
+
 *Beutenberg*: Beutenberg Campus. Dort findet man diverse Institute wie z.b. das *IAP*.
+
 *IMT*: Institut für Materialwissenschaft und Werkstofftechnologie. Mittlerweise umgenannt in Otto-Schott-Institut für Materialforschung (*OSIM*). IMT bleibt aber gebräuchlich. Zu finden am Löbdergraben 32.
-*OSI*: Otto-Schott-Institut für Glaschemie. Zu finden an der Fraunhoferstraße 6. 
+
+*OSI*: Otto-Schott-Institut für Glaschemie. Zu finden an der Fraunhoferstraße 6.
+
 *Abbeplatz* bzw. *Abbemensa*: Der Ernst-Abbe-Platz bzw. die dort zu findende Mensa.
+
 
 Physiker
 --------
