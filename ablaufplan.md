@@ -75,7 +75,7 @@ Materialwissenschaftler
 
 | Von 	| Bis 	| Ort			| Name				|
 |-------|-------|-----------------------|-------------------------------|
-| 09:30 | 10:00 | MWP			| Begrüßung Junge DGM		|
+| 09:30 | 10:00 | MWP SR3		| Begrüßung Junge DGM		|
 | 10:00 | 11:00 | OSIM F		| Vortrag OSI			|
 | 11:00 | 12:30 | OSIM F		| Institutsführung OSI		|
 | 12:30 | 14:00 | Philomensa		| Mittagessen			|
