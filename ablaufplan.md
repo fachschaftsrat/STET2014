@@ -7,7 +7,7 @@ Erklärung der Abkürzungen für die Orte:
 
 **Philomensa** *(Philosophenweg)*: Mensa am Philosophenweg
 
-**HHW** *(Helmholtzweg)*: Dort findet man sowohl das **gelbe Haus*, das **rote Haus* als auch den *Jenoptik-Hörsaal*.
+**HHW** *(Helmholtzweg)*: Dort findet man sowohl das **gelbe Haus**, das **rote Haus** als auch den **Jenoptik-Hörsaal**.
 
 **MWP** *(Max-Wien-Platz 1)*: Das Hauptgebäude der Fakultät.
 
