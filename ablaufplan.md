@@ -1,6 +1,16 @@
 Ablauf
 ======
 
+Erklärung der Abkürzungen für die Orte:
+*HS1*: Der große Hörsaal im dritten Stock des Hauptgebäudes der Fakultät (Max-Wien-Platz 1)
+*Philomensa*: Mensa am Philosophenweg
+*HHW*: Helmholtzweg. Dort findet man sowohl das *gelbe Haus*, das *rote Haus* als auch den *Jenoptik-Hörsaal*.
+*MWP*: Max-Wien-Platz 1. Das Hauptgebäude der Fakultät.
+*Beutenberg*: Beutenberg Campus. Dort findet man diverse Institute wie z.b. das *IAP*.
+*IMT*: Institut für Materialwissenschaft und Werkstofftechnologie. Mittlerweise umgenannt in Otto-Schott-Institut für Materialforschung (*OSIM*). IMT bleibt aber gebräuchlich. Zu finden am Löbdergraben 32.
+*OSI*: Otto-Schott-Institut für Glaschemie. Zu finden an der Fraunhoferstraße 6. 
+*Abbeplatz* bzw. *Abbemensa*: Der Ernst-Abbe-Platz bzw. die dort zu findende Mensa.
+
 Physiker
 --------
 
@@ -55,8 +65,8 @@ Materialwissenschaftler
 | Von 	| Bis 	| Ort			| Name				|
 |-------|-------|-----------------------|-------------------------------|
 | 09:30 | 10:00 | MWP			| Begrüßung Junge DGM		|
-| 10:00 | 11:00 | Fraunhoferstraße	| Vortrag OSI			|
-| 11:00 | 12:30 | Fraunhoferstraße	| Institutsführung OSI		|
+| 10:00 | 11:00 | OSI			| Vortrag OSI			|
+| 11:00 | 12:30 | OSI			| Institutsführung OSI		|
 | 12:30 | 14:00 | Philomensa		| Mittagessen			|
 | 14:00 | 15:00 | Gelbes Haus		| Spaß mit Schmiedl		|
 | 15:00 | 15:30 | Abbeplatz		| Bibliotheksführung		|
