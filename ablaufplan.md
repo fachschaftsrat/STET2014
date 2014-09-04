@@ -79,7 +79,7 @@ Materialwissenschaftler
 | 10:00 | 11:00 | OSIM F		| Vortrag OSI			|
 | 11:00 | 12:30 | OSIM F		| Institutsführung OSI		|
 | 12:30 | 14:00 | Philomensa		| Mittagessen			|
-| 14:00 | 15:00 | Gelbes Haus		| Spaß mit Schmiedl		|
+| 14:00 | 15:00 | Gelbes Haus		| Spaß mit Nawrodt		|
 | 15:00 | 15:30 | Abbeplatz		| Bibliotheksführung		|
 | 15:30 | 17:30 | Stadt			| Stadtführung			|
 | 17:30 | offen | offen			| Spieleabend + Kneipentour	|
