@@ -34,7 +34,7 @@ Physiker
 | 10:30	| 11:30 | HS1			| Vorlesung Experimentalphysik	|
 | 11:30	| 12:30 | Philomensa		| Mittagessen			|
 | 12:30 | 13:00 | HS1			| Begrüßung durch die jDPG	|
-| 13:30	| 17:00 | HHW			| Institutsführungen + Bibo	|
+| 13:00	| 17:00 | HHW			| Institutsführungen + Bibo	|
 | 17:00 | offen	| Freifläche		| Kennenlernen + Grillen/Braten	|
 
 ### Tag 2 (02.10.14)
