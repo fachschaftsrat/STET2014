@@ -14,6 +14,7 @@ Allgemein
 | Tim 			| Done					| Führung Grundpraktikum	|
 | Wesley		| / 					| Mensa Öffnungszeiten		|
 | Richard		| / 					| Fahrt zum Beutenberg		|
+| Richard, Eddie, Eric  | /                                     | Getränke                      |
 
 Institutsführungen
 ------------------
