@@ -22,7 +22,7 @@ Institutsführungen
 | Verantwortlicher	| Status						| Institut 			|
 |-----------------------|-------------------------------------------------------|-------------------------------|
 | Eric			| Done (Woche vorher melden)				| Tieftemperatur (Nawrodt)	|
-| Tim			| / 							| IFK				|
+| Tim			| Done 							| IFK				|
 | Eddie			| Absage						| IOQ (JETI und Polaris)	|
 | Eddie			| Done (im September über Teilnehmerzahl informieren) 	| IAP				|
 | Eddie 		| Done (im September melden)				| IPHT				|
