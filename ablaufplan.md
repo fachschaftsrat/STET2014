@@ -65,8 +65,8 @@ Materialwissenschaftler
 |-------|-------|-----------------------|-----------------------------------------------|
 | 09:00	| 10:00 | HS1			| Begrüßung durch den Dekan			|
 | 10:00	| 10:30	| HS1			| Begrüßung durch den FSR			|
-| 10:30	| 12:00 | HS1			| Vorlesung Experimentalphysik			|
-| 12:00	| 13:30 | Philomensa		| Mittagessen					|
+| 10:30	| 11:30 | HS1			| Vorlesung Experimentalphysik			|
+| 11:30	| 13:30 | Philomensa		| Mittagessen					|
 | 13:30 | 14:30 | OSIM L		| Studienordnung und Einführungsvortrag (Müller)|
 | 14:30	| 16:30	| OSIM L		| Institutsführung IMT (Sierka)			|
 | 16:30 | 17:00 | Stadt			| Transfer zum MWP				|
