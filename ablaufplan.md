@@ -29,11 +29,12 @@ Physiker
 
 | Von	| Bis	| Ort			| Name				|
 |-------|-------|-----------------------|-------------------------------|
-| 09:00	| 10:00 | HS1			| Begrüßung durch den Dekan	|
-| 10:00	| 10:30	| HS1			| Begrüßung durch den FSR	|
+| 09:00	| 09:30 | HS1			| Begrüßung durch den Dekan	|
+| 09:30	| 10:00	| HS1			| Begrüßung durch den FSR	|
+| 10:00 | 10:30 | HS1			| Begrüßung durch die jDPG	|
 | 10:30	| 11:30 | HS1			| Vorlesung Experimentalphysik	|
-| 11:30	| 12:30 | Philomensa		| Mittagessen			|
-| 12:30 | 13:00 | HS1			| Begrüßung durch die jDPG	|
+| 11:30	| 12:00 | Foyer HS1 		| Aufteilung Gruppen		|
+| 12:00	| 13:00 | Philomensa		| Mittagessen			|
 | 13:00 | 14:00 | IFK                   | IFK Führung                   |
 | 14:00	| 17:00 | HHW			| Institutsführungen + Bibo	|
 | 17:00 | offen	| Freifläche		| Kennenlernen + Grillen/Braten	|
