@@ -26,5 +26,5 @@ Institutsführungen
 | Eddie			| Absage						| IOQ (JETI und Polaris)	|
 | Eddie			| Done (im September über Teilnehmerzahl informieren) 	| IAP				|
 | Eddie 		| Done (im September melden)				| IPHT				|
-| Richard		| Teilnehmeranzahl mitgeteilt.				| IAO				|
+| Richard		| Abgesagt		                		| IAO				|
 | Eddie			| Done (siehe IAP)					| IOF				|
